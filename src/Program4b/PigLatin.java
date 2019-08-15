@@ -42,7 +42,7 @@ public class PigLatin {
 		        }
 		    }
 		    pigLatinWord = lHalf + rHalf + "ay";
-		    System.out.print("The word, " + word + "in pig latin is: " + pigLatinWord);
+		    System.out.print("The word, " + word + " in pig latin is: " + pigLatinWord);
 		}
 		else {
 			System.out.print("Don't be lame...");
